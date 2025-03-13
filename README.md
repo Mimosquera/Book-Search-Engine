@@ -37,10 +37,10 @@ In the example below all titles have been removed from the list, you can now sel
 
 
 ## Contributions
-EDX Starter code, myself, with some tutoring assistance (see additional notes)
+EDX Starter code, and class mate (github: achensen), with some tutoring assistance (see additional notes)
 
 ## Contact Information
 My GitHub account is [GitHub Account Link](https://github.com/achensen)
 
 ## Additional Notes 
- The initial code for this project was provided by EDX Engineering Services Company to complete an assignment for a Full Stack Web Development Course. My contribution was to complete the code to ensure it had full functionality similar to the mock up that was provided by setting up an Apollo Server to use GraphQL queries and mutations to fetch and modify data, replacing the existing RESTful API, modifying the existing authentication middleware so that it works in the context of a GraphQL API and creating a Apollo Provider so that requests can communicate with an Apollo Server. I did receive tutoring assistance to help with my understanding of this assignment, specifically with the routes, especially with deployment, making sure everything was changed over correctly. 
+ The initial code for this project was provided by EDX Engineering Services Company to complete an assignment for a Full Stack Web Development Course. My contribution was to complete the code to ensure it had full functionality similar to the mock up that was provided by setting up an Apollo Server to use GraphQL queries and mutations to fetch and modify data, replacing the existing RESTful API, modifying the existing authentication middleware so that it works in the context of a GraphQL API and creating a Apollo Provider so that requests can communicate with an Apollo Server. I worked with fellow class mate, github: achensen, and did indeed receive tutoring assistance to help with my understanding of this assignment.
